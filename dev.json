@@ -1,1 +1,8 @@
-
+{
+  "packageName": "com.sovia.music.dev",
+  "versionCode": 104,
+  "versionName": "3.0.4",
+  "apkUrl": "",
+  "sha256": "",
+  "notes": "SOVIA development channel"
+}
