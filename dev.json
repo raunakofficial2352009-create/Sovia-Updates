@@ -1,8 +1,8 @@
 {
   "packageName": "com.sovia.music.dev",
-  "versionCode": 104,
-  "versionName": "3.0.4",
-  "apkUrl": "",
-  "sha256": "",
-  "notes": "SOVIA development channel"
+  "versionCode": 105,
+  "versionName": "3.0.5",
+  "apkUrl": "https://github.com/raunakofficial2352009-create/Sovia-Updates/releases/download/dev-v3.0.5/SOVIA-3.0.5-dev.apk",
+  "sha256": "370065dea281653a80eef875318cbbebc7c9acd1df2441fcc5af329ca8e1901e",
+  "notes": "SOVIA 3.0.5 development update"
 }
